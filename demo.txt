@@ -1,0 +1,6 @@
+HTML Notes
+
++ Please Apply Jquery First on Head Tag
++ Used Only One h1 tag on html pages
++ Please subscribe & Like Kusha codescript 
+
